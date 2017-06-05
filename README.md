@@ -1,5 +1,5 @@
 # conceptual\_algebras
-Some simple functions to explore conceptual algebras
+Some simple code to explore random conceptual algebras, plus already computed profile files for the two algebras discussed in the paper. 
 
 
 
